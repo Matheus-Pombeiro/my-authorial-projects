@@ -15,6 +15,8 @@ Projects in HTML, CSS and JavaScript
 
 <a href="https://matheus-pombeiro.github.io/monkey-money/">Monkey Money</a>
 
+<a href="https://matheus-pombeiro.github.io/bmi-healthy/src/index.html">BMI Healthy</a>
+
 <hr>
 
 Check the projects I developed through courses and books
