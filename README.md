@@ -19,4 +19,4 @@ Projects in HTML, CSS and JavaScript
 
 Check the projects I developed through courses and books
 
-<a href="https://matheus-pombeiro.github.io/meus-projetos-academicos">My Academic Projects</a>
+<a href="https://matheus-pombeiro.github.io/my-academic-projects">My Academic Projects</a>
