@@ -5,7 +5,7 @@ Matheus V. G. Pombeiro, Graduate in Accounting Sciences and Software Engineering
 
 <hr>
 
-Projects in HTML, CSS and JavaScript
+Projects in HTML, Pure CSS and Tailwind CSS and JavaScript
 
 <a href="https://matheus-pombeiro.github.io/fundacao-clover">Fundação Clover</a>
 
