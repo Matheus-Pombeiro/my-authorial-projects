@@ -5,7 +5,7 @@ Matheus V. G. Pombeiro, Graduate in Accounting Sciences and Software Engineering
 
 <hr>
 
-Projects in HTML, Pure CSS and Tailwind CSS and JavaScript
+Projects using HTML, Pure CSS and Tailwind CSS and JavaScript
 
 <a href="https://matheus-pombeiro.github.io/fundacao-clover">Fundação Clover</a>
 
@@ -24,6 +24,12 @@ Projects in HTML, Pure CSS and Tailwind CSS and JavaScript
 <a href="https://matheus-pombeiro.github.io/mecha-security/src/index.html">Mecha Security</a>
 
 <a href="https://matheus-pombeiro.github.io/game-files/src/index.html">Game Files</a>
+
+<hr>
+
+Projects using React.js
+
+<a href="https://heroes-of-faith.netlify.app/">Heroes of Faith</a>
 
 <hr>
 
