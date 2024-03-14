@@ -31,6 +31,8 @@ Projects using React.js
 
 <a href="https://heroes-of-faith.netlify.app/">Heroes of Faith</a>
 
+<a href="https://tolkien-universe.vercel.app/">Tolkien Universe</a>
+
 <hr>
 
 Check the projects I developed through courses and books
