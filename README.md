@@ -33,6 +33,8 @@ Projects using React.js
 
 <a href="https://tolkien-universe.vercel.app/">Tolkien Universe</a>
 
+<a href="https://max-hortifruti-shop.vercel.app/">Max Hortifruti Shop</a>
+
 <hr>
 
 Check the projects I developed through courses and books
