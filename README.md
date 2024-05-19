@@ -35,6 +35,8 @@ Projects using React.js
 
 <a href="https://max-hortifruti-shop.vercel.app/">Max Hortifruti Shop</a>
 
+<a href="https://adventurers-pi.vercel.app/">Adventurers</a>
+
 <hr>
 
 Check the projects I developed through courses and books
