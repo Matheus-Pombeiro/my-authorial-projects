@@ -39,6 +39,8 @@ Projects using React.js
 
 <a href="https://cep-finder-lime.vercel.app/">CEP Finder</a>
 
+<a href="https://high-school-system.vercel.app/">High School System</a>
+
 <hr>
 
 Check the projects I developed through courses and books
