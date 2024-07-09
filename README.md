@@ -41,6 +41,8 @@ Projects using React.js
 
 <a href="https://high-school-system.vercel.app/">High School System</a>
 
+<a href="https://emergency-fawn.vercel.app/">Emergency</a>
+
 <hr>
 
 Check the projects I developed through courses and books
